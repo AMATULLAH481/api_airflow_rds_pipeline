@@ -1,0 +1,9 @@
+config/
+logs/
+__pycache__
+plugins/
+.env
+*.terraform*
+*.tfvars
+*.tfstate
+*.ipynb
